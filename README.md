@@ -104,8 +104,9 @@ We follow a structured delivery model:
 ## 📞 Get in Touch
 
 📍 Nairobi | Athi River | Devki Gimu – Phase 4  
-📧 Email: info@zuriitconsults.com *(update if needed)*  
-📱 Phone: +254-XXX-XXX-XXX *(update if needed)*  
+📧 Email: info@zuriitconsults.com  
+🌐 Web: [www.zuriitconsults.com](https://www.zuriitconsults.com)  
+📱 Phone: +254 710 634 288 · +254 780 634 289  
 
 ---
 
@@ -119,3 +120,14 @@ We follow a structured delivery model:
 ---
 
 > Building reliable digital infrastructure for a connected and secure future.
+
+---
+
+## Ownership & Licence
+
+The code in this repository is proprietary software of **ZURI IT CONSULTS**. It is published for portfolio and reference purposes only. No licence to copy, modify, redistribute, use commercially or use for AI/ML training is granted; see [LICENSE](LICENSE), [COPYRIGHT](COPYRIGHT) and [THIRD_PARTY_NOTICES.md](THIRD_PARTY_NOTICES.md). To report a vulnerability, see [SECURITY.md](SECURITY.md).
+
+**Developed and maintained by ZURI IT CONSULTS**: *Delivering Secure Digital Systems*
+[www.zuriitconsults.com](https://www.zuriitconsults.com) · info@zuriitconsults.com · +254 710 634 288 · +254 780 634 289
+
+Copyright © 2026 ZURI IT CONSULTS | Ryan Mwakala Njumwa. All rights reserved.
